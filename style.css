@@ -1,0 +1,19 @@
+body{
+    background:#ff8c1a;
+    font-size: 30px;
+}
+.container{
+     background:#d6d6c2;
+     padding: 170px;
+     width: 70%;
+     margin: auto;
+     margin-top:5%;
+     text-align: center;
+}
+
+button{
+    margin-top: 20px;
+}
+h3{
+    color: #ff8c1a;
+}
